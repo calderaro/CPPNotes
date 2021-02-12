@@ -11,3 +11,4 @@ makefile tutorial:
 
 https://makefiletutorial.com/
 https://github.com/theicfire/makefiletutorial
+https://www.gnu.org/software/make/manual/make.html
